@@ -1,0 +1,1 @@
+通过requests库以及multiprocessing多线程爬取猫眼电影评分top100电影,并将爬取结果以doc格式保存在本地
